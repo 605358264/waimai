@@ -1,0 +1,6 @@
+##硅谷外卖注意点
+
+*验证码：静态的网址后+params
+
+   可将params设置为?time=`+Date.now()
+ 
